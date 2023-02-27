@@ -1,4 +1,4 @@
-# C-Programs
+# C++-Programs
 intermediate C++ Program
 //program in C++ 
 write a program that put element in array and output maximum and minimum number from that array
